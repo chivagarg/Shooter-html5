@@ -1,0 +1,16 @@
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.xml
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+c:\users\shgar\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\bin\WebApplication2.dll
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\bin\WebApplication2.pdb
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\bin\WebApplication2.xml
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\obj\Debug\WebApplication2.xml
+C:\Users\shgar\Documents\Visual Studio 2012\Projects\WebApplication2 - Copy\WebApplication2\obj\Debug\WebApplication2.pdb
